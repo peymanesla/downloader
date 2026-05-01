@@ -1,4 +1,4 @@
-name: sort files
+name: 📝 Sorf files
 
 on:
   workflow_dispatch:
